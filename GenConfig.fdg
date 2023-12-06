@@ -1,5 +1,5 @@
 {
-  "ProjectId": "b00cabbc-32f5-4d84-83b9-5d7291093e5f",
+  "ProjectId": "77088b8f-9403-4b97-97e9-076ddb204aa1",
   "CrpLocalPath": null,
   "JsonMetadataPath": null,
   "OnlineCrpUrl": "https://designer.flexberry.net",
@@ -38,7 +38,7 @@
     "Storage": {
       "Mssql": {
         "DiffSql": false,
-        "FullSql": true,
+        "FullSql": false,
         "LiquibaseSql": false,
         "Security": false,
         "AdminUser": false,
